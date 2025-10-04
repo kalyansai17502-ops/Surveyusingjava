@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class SurveyApp {
+public class Survey {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
